@@ -1,0 +1,4 @@
+Model,Accuracy,Macro F1
+TF-IDF baseline,0.7133,0.6750
+DistilBERT (LR 2e-5),0.6400,0.6242
+Class-weighted DistilBERT,0.6467,0.6343
